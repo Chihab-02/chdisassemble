@@ -15,7 +15,7 @@ pub struct Chdisassembler {
     #[arg(short = 'o', long = "output")]
     pub output: String,
 
-    /// Architecture (e.g., x86, arm)
+    /// Architecture (available: x86, arm, mips, riscv)
     #[arg(short = 'a', long = "arch", default_value = "x86")]
     pub arch: Architecture,
 
@@ -24,6 +24,8 @@ pub struct Chdisassembler {
 pub enum Architecture {
     X86,
     ARM,
+    MIPS,
+    RISCV,
 }
 
 impl Chdisassembler{
@@ -44,7 +46,18 @@ impl Chdisassembler{
                 .mode(arch::arm::ArchMode::Arm)
                 .build()
                 .map_err(|e| format!("Capstone init error: {}", e))?,
-            
+        Architecture::MIPS=>
+            Capstone::new()
+                .mips()
+                .mode(arch::mips::ArchMode::Mips32)
+                .build()
+                .map_err(|e| format!("Capstone init error: {}", e))?,
+        Architecture::RISCV=>
+            Capstone::new()
+                .riscv()
+                .mode(arch::riscv::ArchMode::RiscV64)
+                .build()
+                .map_err(|e| format!("Capstone init error: {}", e))?,    
         };   
 
         let insns = cs.disasm_all(&code, 0x1000)
