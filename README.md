@@ -30,7 +30,7 @@ cargo install --path .
 chdisassemble -f <binary-file> -o <output-file> --arch <architecture> 
 ```
 
-OFC PRs are WELCOMED! :3
+PRs are WELCOMED! :3
 
 
 
