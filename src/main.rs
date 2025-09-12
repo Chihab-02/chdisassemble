@@ -1,10 +1,15 @@
-use args::Chdisassembler;
 use clap::Parser;
-mod args;
+use std::error::Error;
 
-fn main() {
-    let cli = Chdisassembler::parse();
-    if let Err(e) = cli.dissassemble() {
-        eprintln!("Error: {}", e);
-    }
+mod args;
+use args::Chdisassembler;
+
+fn main() -> Result<(), Box<dyn Error>> {
+    // Parse command line arguments using clap
+    let args = Chdisassembler::parse();
+    
+    // Run the disassembler
+    args.disassemble()?;
+    
+    Ok(())
 }
