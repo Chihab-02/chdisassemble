@@ -1,0 +1,2087 @@
+!<arch>
+/               0           0     0     0       5090      `
+
+N_ZN102_$LT$core..iter..adapters..map..Map$LT$I$C$F$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$4next17h9aaf625b20caa5d7E
+_ZN108_$LT$core..iter..adapters..filter..Filter$LT$I$C$P$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$4next17h5a5082e9155a95d9E
+_ZN4core4iter6traits8iterator8Iterator4find17h87e87eb33822942bE
+_ZN185_$LT$core..ops..control_flow..ControlFlow$LT$B$C$C$GT$$u20$as$u20$core..ops..try_trait..FromResidual$LT$core..ops..control_flow..ControlFlow$LT$B$C$core..convert..Infallible$GT$$GT$$GT$13from_residual17h57f184947869ef90E
+_ZN4core3fmt2rt38_$LT$impl$u20$core..fmt..Arguments$GT$6new_v117h9b397507e540e562E
+_ZN4core3fmt2rt38_$LT$impl$u20$core..fmt..Arguments$GT$9new_const17h2e1566580774b968E
+_ZN4core3ops8function5impls79_$LT$impl$u20$core..ops..function..FnMut$LT$A$GT$$u20$for$u20$$RF$mut$u20$F$GT$8call_mut17h48942f1b3e14cd24E
+_ZN4core3ptr8non_null16NonNull$LT$T$GT$20offset_from_unsigned17h9a70eab64d580a0fE
+_ZN4core4iter6traits8iterator8Iterator3map17h793dbe8b96f4eb47E
+_ZN4core4iter6traits8iterator8Iterator3map17ha478e61c4c0c4a68E
+_ZN4core4iter6traits8iterator8Iterator3map17hc02c8b02fa89ffc8E
+_ZN4core4iter6traits8iterator8Iterator8try_fold17h61bd950f098f809aE
+_ZN4core4iter6traits8iterator8Iterator4find5check28_$u7b$$u7b$closure$u7d$$u7d$17hbf9b26cb76bbc40aE
+_ZN4core4iter6traits8iterator8Iterator6filter17h519025aa4bc69251E
+_ZN90_$LT$core..option..IntoIter$LT$A$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$4next17h54ed1abceb3b341bE
+_ZN95_$LT$core..ops..control_flow..ControlFlow$LT$B$C$C$GT$$u20$as$u20$core..ops..try_trait..Try$GT$6branch17he6cf904836048478E
+_ZN95_$LT$core..ops..control_flow..ControlFlow$LT$B$C$C$GT$$u20$as$u20$core..ops..try_trait..Try$GT$11from_output17h5edde2778d54c0dbE
+_ZN4core4sync6atomic23atomic_compare_exchange17h39ccdb3f3761daabE
+_ZN4core4sync6atomic11atomic_load17heec91117bb4b961fE
+_ZN4core4sync6atomic12atomic_store17h277fed85728b3515E
+_ZN4core5slice29_$LT$impl$u20$$u5b$T$u5d$$GT$4iter17h87b2535b6b4a1a36E
+_ZN4core5slice4iter13Iter$LT$T$GT$3new17h8986f93c03c18824E
+_ZN4core6option15Option$LT$T$GT$3map17h8654dafef545bf5eE
+_ZN4core6option15Option$LT$T$GT$5ok_or17h72ec4edb9b610987E
+_ZN4core6option15Option$LT$T$GT$5ok_or17h950d6d7b09684111E
+_ZN4core6option15Option$LT$T$GT$9unwrap_or17h9445f9d91714e4c7E
+_ZN4core6option15Option$LT$T$GT$9unwrap_or17hafdca6e6f7a9fdd5E
+_ZN91_$LT$core..option..Option$LT$T$GT$$u20$as$u20$core..iter..traits..collect..IntoIterator$GT$9into_iter17h3c2084e1b24dc789E
+_ZN91_$LT$core..slice..iter..Iter$LT$T$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$4next17hda547d71b2df72a9E
+_ZN91_$LT$core..slice..iter..Iter$LT$T$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$8position17h285df53b8edb7914E
+_ZN91_$LT$core..slice..iter..Iter$LT$T$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$8position17h747bdbd0d3041d9dE
+_ZN57_$LT$log..Level$u20$as$u20$core..str..traits..FromStr$GT$8from_str17h123857cb38b7a98dE
+_ZN3log5Level10from_usize17h6361532fdb299a16E
+_ZN49_$LT$log..Level$u20$as$u20$core..fmt..Display$GT$3fmt17h205ac4e4c72134beE
+_ZN3log5Level6as_str17hdf4dd427c25e32feE
+_ZN3log5Level4iter17h60b0cb31f82e101aE
+_ZN3log5Level18increment_severity17h0d65993601763830E
+_ZN3log5Level18decrement_severity17h860f7f51f7ec39bfE
+_ZN63_$LT$log..LevelFilter$u20$as$u20$core..str..traits..FromStr$GT$8from_str17he41dbf3adf8a07acE
+_ZN3log11LevelFilter10from_usize17hd9ba237cd0287cbfE
+_ZN55_$LT$log..LevelFilter$u20$as$u20$core..fmt..Display$GT$3fmt17hef59139dfed000cdE
+_ZN3log11LevelFilter6as_str17h90857a87ba9cd6f6E
+_ZN3log11LevelFilter4iter17h34c3dac1f03567a4E
+_ZN3log11LevelFilter18increment_severity17h880d2731567cc5e4E
+_ZN3log11LevelFilter18decrement_severity17hba8a415e9e8e943bE
+_ZN61_$LT$log..RecordBuilder$u20$as$u20$core..default..Default$GT$7default17h8572619da829fe2eE
+_ZN63_$LT$log..MetadataBuilder$u20$as$u20$core..default..Default$GT$7default17he5bd66dad378eb8aE
+_ZN43_$LT$log..NopLogger$u20$as$u20$log..Log$GT$7enabled17h1abe6a43c4aa7947E
+_ZN43_$LT$log..NopLogger$u20$as$u20$log..Log$GT$3log17h2ffef755e38e84a2E
+_ZN43_$LT$log..NopLogger$u20$as$u20$log..Log$GT$5flush17hbc59810ce8ef2e9dE
+_ZN3log10set_logger17hd0bb98ef2a71ef3aE
+_ZN3log15set_logger_racy17h190cd84db0b0b094E
+_ZN58_$LT$log..SetLoggerError$u20$as$u20$core..fmt..Display$GT$3fmt17hd09d661c109c1f3eE
+_ZN59_$LT$log..ParseLevelError$u20$as$u20$core..fmt..Display$GT$3fmt17h4a8595518cf4531dE
+_ZN3log6logger17h69ce9e95032f0021E
+_ZN61_$LT$log..__private_api..GlobalLogger$u20$as$u20$log..Log$GT$7enabled17ha99df04eff52a09fE
+_ZN61_$LT$log..__private_api..GlobalLogger$u20$as$u20$log..Log$GT$3log17hcd9883b1e33c1944E
+_ZN61_$LT$log..__private_api..GlobalLogger$u20$as$u20$log..Log$GT$5flush17h083d01f3f4289daaE
+_ZN3log13__private_api3loc17hff916767edf27610E
+_ZN3log20MAX_LOG_LEVEL_FILTER17h41e9a9e9828ecf01E
+DW.ref.rust_eh_personality
+//                                              56        `
+log-568abef6574317d3.log.46ad4f51ed9777e4-cgu.0.rcgu.o/
+lib.rmeta/      0           0     0     644     195448    `
+
+rust
+#rustc 1.89.0 (29483883e 2025-08-04)
+#Z.j
+-cf553023d378d977
+-1cc87b91aac5f6e6
+error
+	__log_key
+__log_value
+__log_value_sval
+kv_sval
+__log_value_serde
+kv_serde
+__log_value_error
+kv_std
+serde
+	KeyValues
+set_boxed_logger
+
+kv_support
+tests
+macros
+__log
+log_enabled
+__log_enabled
+__log_logger
+LOGGER
+STATE
+UNINITIALIZED
+INITIALIZING
+INITIALIZED
+MAX_LOG_LEVEL_FILTER
+LOG_LEVEL_NAMES
+SET_LOGGER_ERROR
+LEVEL_PARSE_ERROR
+from_str
+to_level_filter
+increment_severity
+decrement_severity
+to_level
+builder
+metadata
+level
+module_path_static
+file_static
+build
+enabled
+flush
+	NopLogger
+set_max_level
+set_max_level_racy
+	max_level
+
+set_logger
+set_logger_inner
+set_logger_racy
+logger
+__private_api
+Value
+sealed
+into_kvs
+log_impl
+STATIC_MAX_LEVEL
+info
+trace
+Level
+Warn
+Info
+Trace
+LevelFilter
+MaybeStaticStr
+Static
+Borrowed
+Record
+RecordBuilder
+record
+Metadata
+MetadataBuilder
+SetLoggerError
+ParseLevelError
+GlobalLogger
+Uolv
+2
+O}
+__self_discr
+__arg1_discr
+Less
+Greater
+Trace
+Debug
+Info
+Warn
+Error
+Trace
+Debug
+Info
+Warn
+Error
+__self_0
+__arg1_0
+Borrowed
+Static
+Uolv
+	Arguments
+pieces
+Record
+metadata
+args
+module_path
+file
+line
+RecordBuilder
+record
+Metadata
+level
+target
+MetadataBuilder
+metadata
+Rmwq
+%a4d
+SetLoggerError
+ParseLevelError
+GlobalLogger
+Location
+file_bytes_with_nul
+Lkey-value support is experimental and must be enabled using the `kv` feature
+target_module_path_and_loc
+ y}~
+FromStr
+ A lightweight logging facade.
+F The `log` crate provides a single logging API that abstracts over the
+J actual logging implementation. Libraries can use the logging API provided
+J by this crate, and the consumer of those libraries can choose the logging
+7 implementation that is most suitable for its use case.
+L If no logging implementation is selected, the facade falls back to a "noop"
+H implementation that ignores all log messages. The overhead in this case
+; is very small - just an integer load, comparison and jump.
+M A log request consists of a _target_, a _level_, and a _body_. A target is a
+M string which defaults to the module path of the location of the log request,
+L though that default may be overridden. Logger implementations typically use
+@ the target to filter requests based on some user configuration.
+ # Usage
+O The basic use of the log crate is through the five logging macros: [`error!`],
+0 [`warn!`], [`info!`], [`debug!`] and [`trace!`]
+< where `error!` represents the highest-priority log messages
+F and `trace!` the lowest. The log messages are filtered by configuring
+9 the log level to exclude messages with a lower priority.
+F Each of these macros accept format strings similarly to [`println!`].
+ [`error!`]: ./macro.error.html
+ [`warn!`]: ./macro.warn.html
+ [`info!`]: ./macro.info.html
+ [`debug!`]: ./macro.debug.html
+ [`trace!`]: ./macro.trace.html
+F [`println!`]: https://doc.rust-lang.org/stable/std/macro.println.html
+Z Avoid writing expressions with side-effects in log statements. They may not be evaluated.
+ ## In libraries
+D Libraries should link only to the `log` crate, and use the provided
+K macros to log whatever information will be useful to downstream consumers.
+ ### Examples
+ ```
++ # #[derive(Debug)] pub struct Yak(String);
+. # impl Yak { fn shave(&mut self, _: u32) {} }
+2 # fn find_a_razor() -> Result<u32, u32> { Ok(1) }
+ use log::{info, warn};
+& pub fn shave_the_yak(yak: &mut Yak) {
+G     info!(target: "yak_events", "Commencing yak shaving for {yak:?}");
+     loop {
+         match find_a_razor() {
+             Ok(razor) => {
+1                 info!("Razor located: {razor}");
+"                 yak.shave(razor);
+                 break;
+             }
+             Err(err) => {
+D                 warn!("Unable to locate a razor: {err}, retrying");
+
+         }
+     }
+ # fn main() {}
+ ## In executables
+R Executables should choose a logging implementation and initialize it early in the
+I runtime of the program. Logging implementations will typically include a
+7 function to do this. Any log messages generated before
+3 the implementation is initialized will be ignored.
+> The executable itself may use the `log` crate to log as well.
+ ### Warning
+1 The logging system may only be initialized once.
+ ## Structured logging
+C If you enable the `kv` feature you can associate structured values
+J with your log records. If we take the example from before, we can include
+A some additional context besides what's in the formatted message:
+ # use serde::Serialize;
+6 # #[derive(Debug, Serialize)] pub struct Yak(String);
+= # fn find_a_razor() -> Result<u32, std::io::Error> { Ok(1) }
+ # #[cfg(feature = "kv_serde")]
+ # fn main() {
+F     info!(target: "yak_events", yak:serde; "Commencing yak shaving");
+/                 info!(razor; "Razor located");
+             Err(e) => {
+D                 warn!(e:err; "Unable to locate a razor, retrying");
+ # }
+$ # #[cfg(not(feature = "kv_serde"))]
+6 See the [`kv`] module documentation for more details.
+$ # Available logging implementations
+7 In order to produce log output executables have to use
+4 a logger implementation compatible with the facade.
+9 There are many available implementations to choose from,
+( here are some of the most popular ones:
+ * Simple minimal loggers:
+     * [env_logger]
+     * [colog]
+     * [simple_logger]
+     * [simplelog]
+     * [pretty_env_logger]
+     * [stderrlog]
+     * [flexi_logger]
+     * [call_logger]
+     * [structured-logger]
+     * [clang_log]
+     * [ftail]
+# * Complex configurable frameworks:
+     * [log4rs]
+     * [logforth]
+     * [fern]
+     * [spdlog-rs]
+! * Adaptors for other facilities:
+     * [syslog]
+     * [slog-stdlog]
+     * [systemd-journal-logger]
+     * [android_log]
+     * [win_dbg_logger]
+     * [db_logger]
+     * [log-to-defmt]
+     * [logcontrol-log]
+ * For WebAssembly binaries:
+     * [console_log]
+ * For dynamic libraries:
+_     * You may need to construct an FFI-safe wrapper over `log` to initialize in your libraries
+ * Utilities:
+     * [log_err]
+     * [log-reload]
+ # Implementing a Logger
+M Loggers implement the [`Log`] trait. Here's a very basic example that simply
+H logs all messages at the [`Error`][level_link], [`Warn`][level_link] or
+' [`Info`][level_link] levels to stdout:
+$ use log::{Record, Level, Metadata};
+ struct SimpleLogger;
+! impl log::Log for SimpleLogger {
+5     fn enabled(&self, metadata: &Metadata) -> bool {
+(         metadata.level() <= Level::Info
+%     fn log(&self, record: &Record) {
+-         if self.enabled(record.metadata()) {
+@             println!("{} - {}", record.level(), record.args());
+     fn flush(&self) {}
+J Loggers are installed by calling the [`set_logger`] function. The maximum
+L log level also needs to be adjusted via the [`set_max_level`] function. The
+J logging facade uses this as an optimization to improve performance of log
+F messages at levels that are disabled. It's important to set it, as it
+L defaults to [`Off`][filter_link], so no log messages will ever be captured!
+K In the case of our example logger, we'll want to set the maximum log level
+G to [`Info`][filter_link], since we ignore any [`Debug`][level_link] or
+J [`Trace`][level_link] level log messages. A logging implementation should
+; provide a function that wraps a call to [`set_logger`] and
+: [`set_max_level`], handling initialization of the logger:
+ # use log::{Level, Metadata};
+ # struct SimpleLogger;
+# # impl log::Log for SimpleLogger {
+6 #   fn enabled(&self, _: &Metadata) -> bool { false }
+& #   fn log(&self, _: &log::Record) {}
+ #   fn flush(&self) {}
+( use log::{SetLoggerError, LevelFilter};
+, static LOGGER: SimpleLogger = SimpleLogger;
+. pub fn init() -> Result<(), SetLoggerError> {
+     log::set_logger(&LOGGER)
+9         .map(|()| log::set_max_level(LevelFilter::Info))
+M Implementations that adjust their configurations at runtime should take care
+) to adjust the maximum log level as well.
+ # Use with `std`
+L `set_logger` requires you to provide a `&'static Log`, which can be hard to
+A obtain if your logger depends on some runtime configuration. The
+M `set_boxed_logger` function is available with the `std` Cargo feature. It is
+J identical to `set_logger` except that it takes a `Box<Log>` rather than a
+ `&'static Log`:
+@ # use log::{Level, LevelFilter, Log, SetLoggerError, Metadata};
+ # #[cfg(feature = "std")]
+2     log::set_boxed_logger(Box::new(SimpleLogger))
+ # Compile time filters
+_ Log levels can be statically disabled at compile time by enabling one of these Cargo features:
+ * `max_level_off`
+ * `max_level_error`
+ * `max_level_warn`
+ * `max_level_info`
+ * `max_level_debug`
+ * `max_level_trace`
+W Log invocations at disabled levels will be skipped and will not even be present in the
+[ resulting binary. These features control the value of the `STATIC_MAX_LEVEL` constant. The
+^ logging macros check this value before logging a message. By default, no levels are disabled.
+[ It is possible to override this level for release builds only with the following features:
+ * `release_max_level_off`
+ * `release_max_level_error`
+ * `release_max_level_warn`
+ * `release_max_level_info`
+ * `release_max_level_debug`
+ * `release_max_level_trace`
+` Libraries should avoid using the max level features because they're global and can't be changed
+ once they're set.
+] For example, a crate can disable trace level logs in debug builds and trace, debug, and info
+? level logs in release builds with the following configuration:
+ ```toml
+ [dependencies]
+T log = { version = "0.4", features = ["max_level_debug", "release_max_level_warn"] }
+ # Crate Feature Flags
+U The following crate feature flags are available in addition to the filters. They are
+! configured in your `Cargo.toml`.
+` * `std` allows use of `std` crate instead of the default `core`. Enables using `std::error` and
+$   `set_boxed_logger` functionality.
+^ * `serde` enables support for serialization and deserialization of `Level` and `LevelFilter`.
+7 log = { version = "0.4", features = ["std", "serde"] }
+ # Version compatibility
+Y The 0.3 and 0.4 versions of the `log` crate are almost entirely compatible. Log messages
+` made using `log` 0.3 will forward transparently to a logger implementation using `log` 0.4. Log
+_ messages made using `log` 0.4 will forward to a logger implementation using `log` 0.3, but the
+^ module path and file name information associated with the message will unfortunately be lost.
+ [`Log`]: trait.Log.html
+ [level_link]: enum.Level.html
+% [filter_link]: enum.LevelFilter.html
+# [`set_logger`]: fn.set_logger.html
+) [`set_max_level`]: fn.set_max_level.html
+3 [`try_set_logger_raw`]: fn.try_set_logger_raw.html
+5 [`shutdown_logger_raw`]: fn.shutdown_logger_raw.html
+7 [env_logger]: https://docs.rs/env_logger/*/env_logger/
+( [colog]: https://docs.rs/colog/*/colog/
+B [simple_logger]: https://github.com/borntyping/rust-simple_logger
+6 [simplelog]: https://github.com/drakulix/simplelog.rs
+L [pretty_env_logger]: https://docs.rs/pretty_env_logger/*/pretty_env_logger/
+4 [stderrlog]: https://docs.rs/stderrlog/*/stderrlog/
+= [flexi_logger]: https://docs.rs/flexi_logger/*/flexi_logger/
+: [call_logger]: https://docs.rs/call_logger/*/call_logger/
++ [syslog]: https://docs.rs/syslog/*/syslog/
+: [slog-stdlog]: https://docs.rs/slog-stdlog/*/slog_stdlog/
++ [log4rs]: https://docs.rs/log4rs/*/log4rs/
+1 [logforth]: https://docs.rs/logforth/*/logforth/
+% [fern]: https://docs.rs/fern/*/fern/
+1 [spdlog-rs]: https://docs.rs/spdlog-rs/*/spdlog/
+[ [systemd-journal-logger]: https://docs.rs/systemd-journal-logger/*/systemd_journal_logger/
+: [android_log]: https://docs.rs/android_log/*/android_log/
+C [win_dbg_logger]: https://docs.rs/win_dbg_logger/*/win_dbg_logger/
+4 [db_logger]: https://docs.rs/db_logger/*/db_logger/
+= [log-to-defmt]: https://docs.rs/log-to-defmt/*/log_to_defmt/
+: [console_log]: https://docs.rs/console_log/*/console_log/
+Q [structured-logger]: https://docs.rs/structured-logger/latest/structured_logger/
+C [logcontrol-log]: https://docs.rs/logcontrol-log/*/logcontrol_log/
+. [log_err]: https://docs.rs/log_err/*/log_err/
+7 [log-reload]: https://docs.rs/log-reload/*/log_reload/
+8 [clang_log]: https://docs.rs/clang_log/latest/clang_log
+, [ftail]: https://docs.rs/ftail/latest/ftail
+<https://www.rust-lang.org/logos/rust-logo-128x128-blk-v2.png
+%https://www.rust-lang.org/favicon.ico
+https://docs.rs/log/0.4.28
+ y}~
+capture
+value
+J Determines if a message logged at the specified level in that module will
+ be logged.
+L This can be used to avoid expensive computation of log message arguments if
+% the message would be ignored anyway.
+ # Examples
+& use log::{debug, log_enabled, Level};
+! # struct Data { x: u32, y: u32 }
+6 # fn expensive_call() -> Data { Data { x: 0, y: 0 } }
+4 # let my_logger = log::__private_api::GlobalLogger;
+  if log_enabled!(Level::Debug) {
+!     let data = expensive_call();
+;     debug!("expensive debug data: {} {}", data.x, data.y);
+2 if log_enabled!(target: "Global", Level::Debug) {
+     let data = expensive_call();
+L    debug!(target: "Global", "expensive debug data: {} {}", data.x, data.y);
+3 if log_enabled!(logger: my_logger, Level::Debug) {
+N This macro accepts the same `target` and `logger` arguments as [`macro@log`].
+__log_global_logger
+4key value support requires the `kv` feature of `log`
+Icapturing values as `sval::Value` requites the `kv_sval` feature of `log`
+Ocapturing values as `serde::Serialize` requites the `kv_serde` feature of `log`
+Ncapturing values as `std::error::Error` requites the `kv_std` feature of `log`
+-&'D
+<closure_kind>
+<closure_signature>
+<upvars>
+-./01256
+( Returns the most verbose logging level.
+6 Converts the `Level` to the equivalent `LevelFilter`.
+2 Returns the string representation of the `Level`.
+C This returns the same string as the `fmt::Display` implementation.
+. Iterate through all supported logging levels.
+H The order of iteration is from more severe to less severe log messages.
+ use log::Level;
+  let mut levels = Level::iter();
+/ assert_eq!(Some(Level::Error), levels.next());
+/ assert_eq!(Some(Level::Trace), levels.last());
+, Get the next-highest `Level` from this one.
+] If the current `Level` is at the highest level, the returned `Level` will be the same as the
+ current one.
+ let level = Level::Info;
+6 assert_eq!(Level::Debug, level.increment_severity());
+K assert_eq!(Level::Trace, level.increment_severity().increment_severity());
+m assert_eq!(Level::Trace, level.increment_severity().increment_severity().increment_severity()); // max level
++ Get the next-lowest `Level` from this one.
+\ If the current `Level` is at the lowest level, the returned `Level` will be the same as the
+5 assert_eq!(Level::Warn, level.decrement_severity());
+K assert_eq!(Level::Error, level.decrement_severity().decrement_severity());
+m assert_eq!(Level::Error, level.decrement_severity().decrement_severity().decrement_severity()); // min level
+/<=D
+/CDEFGJK
+/ Returns the most verbose logging level filter.
++ Converts `self` to the equivalent `Level`.
+0 Returns `None` if `self` is `LevelFilter::Off`.
+8 Returns the string representation of the `LevelFilter`.
+0 Iterate through all supported filtering levels.
+? The order of iteration is from less to more verbose filtering.
+ use log::LevelFilter;
+& let mut levels = LevelFilter::iter();
+3 assert_eq!(Some(LevelFilter::Off), levels.next());
+5 assert_eq!(Some(LevelFilter::Trace), levels.last());
+2 Get the next-highest `LevelFilter` from this one.
+] If the current `LevelFilter` is at the highest level, the returned `LevelFilter` will be the
+ same as the current one.
+& let level_filter = LevelFilter::Info;
+C assert_eq!(LevelFilter::Debug, level_filter.increment_severity());
+X assert_eq!(LevelFilter::Trace, level_filter.increment_severity().increment_severity());
+z assert_eq!(LevelFilter::Trace, level_filter.increment_severity().increment_severity().increment_severity()); // max level
+1 Get the next-lowest `LevelFilter` from this one.
+\ If the current `LevelFilter` is at the lowest level, the returned `LevelFilter` will be the
+B assert_eq!(LevelFilter::Warn, level_filter.decrement_severity());
+X assert_eq!(LevelFilter::Error, level_filter.decrement_severity().decrement_severity());
+k assert_eq!(LevelFilter::Off, level_filter.decrement_severity().decrement_severity().decrement_severity());
+ assert_eq!(LevelFilter::Off, level_filter.decrement_severity().decrement_severity().decrement_severity().decrement_severity()); // min level
+3QRSTUVXY[\
+ Returns a new builder.
+ The message body.
+" Metadata about the log directive.
+$ The verbosity level of the message.
+) The name of the target of the directive.
+  The module path of the message.
+= The module path of the message, if it is a `'static` string.
+( The source file containing the message.
+E The source file containing the message, if it is a `'static` string.
+! The line containing the message.
+4_`abcdefghi
+ Construct new `RecordBuilder`.
+ The default options are:
+ - `args`: [`format_args!("")`]
+. - `metadata`: [`Metadata::builder().build()`]
+ - `module_path`: `None`
+ - `file`: `None`
+ - `line`: `None`
+K [`format_args!("")`]: https://doc.rust-lang.org/std/macro.format_args.html
+J [`Metadata::builder().build()`]: struct.MetadataBuilder.html#method.build
+. Set [`args`](struct.Record.html#method.args).
+ Set [`metadata`](struct.Record.html#method.metadata). Construct a `Metadata` object with [`MetadataBuilder`](struct.MetadataBuilder.html).
+< Set [`Metadata::level`](struct.Metadata.html#method.level).
+= Set [`Metadata::target`](struct.Metadata.html#method.target)
+; Set [`module_path`](struct.Record.html#method.module_path)
+Q Set [`module_path`](struct.Record.html#method.module_path) to a `'static` string
+- Set [`file`](struct.Record.html#method.file)
+D Set [`file`](struct.Record.html#method.file) to a `'static` string.
+- Set [`line`](struct.Record.html#method.line)
+) Invoke the builder and return a `Record`
+5nop
+6stuv
+# Construct a new `MetadataBuilder`.
+ - `level`: `Level::Info`
+ - `target`: `""`
+9 Setter for [`level`](struct.Metadata.html#method.level).
+; Setter for [`target`](struct.Metadata.html#method.target).
+ Returns a `Metadata` object.
+; A trait encapsulating the operations required of a logger.
+*z{|z{|
+A Determines if a log message with the specified metadata would be
+ logged.
+C This is used by the `log_enabled!` macro to allow callers to avoid
+G expensive computation of log message arguments if the message would be
+ discarded anyway.
+ # For implementors
+= This method isn't called automatically by the `log!` macros.
+M It's up to an implementation of the `Log` trait to call `enabled` in its own
+D `log` method implementation to guarantee that filtering is applied.
+Uolv
+ Logs the `Record`.
+D Note that `enabled` is *not* necessarily called before this method.
+@ Implementations of `log` should perform all necessary filtering
+ internally.
+ Flushes any buffered records.
+T It can be called manually on shut-down to ensure any in-flight records are flushed.
+2
+O}
+Uolv
+Uolv
+# Sets the global maximum log level.
+L Generally, this should only be called by the active logging implementation.
+n Note that `Trace` is the maximum level, because it provides the maximum amount of detail in the emitted logs.
+. A thread-unsafe version of [`set_max_level`].
+I This function is available on all platforms, even those that do not have
+9 support for atomics that is needed by [`set_max_level`].
+< In almost all cases, [`set_max_level`] should be preferred.
+	 # Safety
+F This function is only safe to call when it cannot race with any other
+2 calls to `set_max_level` or `set_max_level_racy`.
+J This can be upheld by (for example) making sure that **there are no other
+? threads**, and (on embedded) that **interrupts are disabled**.
+G It is safe to use all other logging functions while this function runs
+  (including all logging macros).
+' Returns the current maximum log level.
+X The [`log!`], [`error!`], [`warn!`], [`info!`], [`debug!`], and [`trace!`] macros check
+I this value and discard any message logged at a higher level. The maximum
+4 log level is set by the [`set_max_level`] function.
+ [`log!`]: macro.log.html
+ [`error!`]: macro.error.html
+ [`warn!`]: macro.warn.html
+ [`info!`]: macro.info.html
+ [`debug!`]: macro.debug.html
+ [`trace!`]: macro.trace.html
+, Sets the global logger to a `&'static Log`.
+L This function may only be called once in the lifetime of a program. Any log
+M events that occur before the call to `set_logger` completes will be ignored.
+D This function does not typically need to be called manually. Logger
+J implementations should provide an initialization method that installs the
+ logger internally.
+ # Availability
+K This method is available even when the `std` feature is disabled. However,
+I it is currently unavailable on `thumbv6` targets, which lack support for
+F some atomic operations which are used by this function. Even on those
+0 targets, [`set_logger_racy`] will be available.
+	 # Errors
+7 An error is returned if a logger has already been set.
+D use log::{error, info, warn, Record, Level, Metadata, LevelFilter};
+' static MY_LOGGER: MyLogger = MyLogger;
+ struct MyLogger;
+ impl log::Log for MyLogger {
+ # fn main(){
+& log::set_logger(&MY_LOGGER).unwrap();
+' log::set_max_level(LevelFilter::Info);
+ info!("hello log");
+ warn!("warning");
+ error!("oops");
+- [`set_logger_racy`]: fn.set_logger_racy.html
+make_logger
++ A thread-unsafe version of [`set_logger`].
+6 support for atomics that is needed by [`set_logger`].
+9 In almost all cases, [`set_logger`] should be preferred.
+, calls to `set_logger` or `set_logger_racy`.
+C It is safe to use other logging functions while this function runs
+# Returns a reference to the logger.
+B If a logger has not been set, a no-op implementation is returned.
+Y WARNING: this is not part of the crate's public API and is subject to change at any time
+Uolv
++ The statically resolved maximum log level.
+L See the crate level documentation for information on how to configure this.
+M This value is checked by the log macros, but not by the `Log`ger returned by
+J the [`logger`] function. Code that manually calls functions on that value
+- should compare the level against this value.
+ [`logger`]: fn.logger.html
+ The standard logging macro.
+I This macro will generically log with the specified `Level` and `format!`
+ based argument list.
+ use log::{log, Level};
+ let data = (42, "Forty-two");
+ let private_data = "private";
+? log!(Level::Error, "Received errors: {}, {}", data.0, data.1);
+L Optionally, you can specify a `target` argument to attach a specific target
+L to the log record. By default, the target is the module path of the caller.
+ log!(
+     target: "app_events",
+     Level::Error,
+     "Received errors: {}, {}",
+     data.0, data.1
+M And optionally, you can specify a `logger` argument to use a specific logger
+& instead of the default global logger.
+ # struct MyLogger {}
+ # impl Log for MyLogger {
+= #     fn enabled(&self, _metadata: &log::Metadata) -> bool {
+ #         false
+ #     }
+. #     fn log(&self, _record: &log::Record) {}
+ #     fn flush(&self) {}
+ use log::{log, Level, Log};
+ let my_logger = MyLogger {};
+     logger: my_logger,
+Q The `logger` argument accepts a value that implements the `Log` trait. The value
+# will be borrowed within the macro.
+S Note that the global level set via Cargo features, or through `set_max_level` will
+O still apply, even when a custom logger is supplied with the `logger` argument.
+# Logs a message at the error level.
+ use log::error;
+. let (err_info, port) = ("No connection", 22);
+, error!("Error: {err_info} on port {port}");
+E error!(target: "app_events", "App Error: {err_info}, Port: {port}");
+B error!(logger: my_logger, "App Error: {err_info}, Port: {port}");
+" Logs a message at the warn level.
+ use log::warn;
+( let warn_description = "Invalid Input";
+' warn!("Warning! {warn_description}!");
+K warn!(target: "input_events", "App received warning: {warn_description}");
+F warn!(logger: my_logger, "App received warning: {warn_description}");
+" Logs a message at the info level.
+ use log::info;
+. # struct Connection { port: u32, speed: f32 }
+6 let conn_info = Connection { port: 40, speed: 3.20 };
+K info!("Connected to port {} at {} Mb/s", conn_info.port, conn_info.speed);
+ info!(
+!     target: "connection_events",
+2     "Successful connection, port: {}, speed: {}",
+$     conn_info.port, conn_info.speed
+# Logs a message at the debug level.
+ use log::debug;
+% # struct Position { x: f32, y: f32 }
+, let pos = Position { x: 3.234, y: -1.223 };
+4 debug!("New position: x: {}, y: {}", pos.x, pos.y);
+J debug!(target: "app_events", "New position: x: {}, y: {}", pos.x, pos.y);
+G debug!(logger: my_logger, "New position: x: {}, y: {}", pos.x, pos.y);
+# Logs a message at the trace level.
+ use log::trace;
+3 trace!("Position is: x: {}, y: {}", pos.x, pos.y);
+4 trace!(target: "app_events", "x is {} and y is {}",
+;        if pos.x >= 0.0 { "positive" } else { "negative" },
+<        if pos.y >= 0.0 { "positive" } else { "negative" });
+1 trace!(logger: my_logger, "x is {} and y is {}",
+C An enum representing the available verbosity levels of the logger.
+F Typical usage includes: checking if a certain `Level` is enabled with
+D [`log_enabled!`](macro.log_enabled.html), specifying the `Level` of
+@ [`log!`](macro.log.html), and comparing a `Level` directly to a
+( [`LevelFilter`](enum.LevelFilter.html).
+ The "error" level.
+  Designates very serious errors.
+ The "warn" level.
+! Designates hazardous situations.
+ The "info" level.
+ Designates useful information.
+ The "debug" level.
+' Designates lower priority information.
+ The "trace" level.
+D Designates very low priority, often extremely verbose, information.
+J An enum representing the available verbosity level filters of the logger.
+G A `LevelFilter` may be compared directly to a [`Level`]. Use this type
+Q to get and set the maximum log level with [`max_level()`] and [`set_max_level`].
+ [`Level`]: enum.Level.html
+# [`max_level()`]: fn.max_level.html
+# A level lower than all log levels.
+& Corresponds to the `Error` log level.
+% Corresponds to the `Warn` log level.
+% Corresponds to the `Info` log level.
+& Corresponds to the `Debug` log level.
+& Corresponds to the `Trace` log level.
+  The "payload" of a log message.
+ # Use
+H `Record` structures are passed as parameters to the [`log`][method.log]
+B method of the [`Log`] trait. Logger implementors manipulate these
+I structures in order to display log messages. `Record`s are automatically
+@ created by the [`log!`] macro and so are not seen by log users.
+G Note that the [`level()`] and [`target()`] accessors are equivalent to
+G `self.metadata().level()` and `self.metadata().target()` respectively.
+I These methods are provided as a convenience for users of this structure.
+
+ # Example
+E The following example shows a simple logger that displays the level,
+? module path, and message of any `Record` that is passed to it.
+:    fn enabled(&self, _metadata: &log::Metadata) -> bool {
+        true
+    }
+)    fn log(&self, record: &log::Record) {
+-        if !self.enabled(record.metadata()) {
+            return;
+	        }
+        println!("{}:{} -- {}",
+                  record.level(),
+!                 record.target(),
+                  record.args());
+    fn flush(&self) {}
+* [method.log]: trait.Log.html#tymethod.log
+- [`level()`]: struct.Record.html#method.level
+/ [`target()`]: struct.Record.html#method.target
+, Builder for [`Record`](struct.Record.html).
+Y Typically should only be used by log library creators or for testing and "shim loggers".
+U The `RecordBuilder` can set the different parameters of `Record` object, and returns
++ the created object when `build` is called.
+ use log::{Level, Record};
+ let record = Record::builder()
+.                 .args(format_args!("Error!"))
+%                 .level(Level::Error)
+!                 .target("myApp")
+)                 .file(Some("server.rs"))
+!                 .line(Some(144))
+-                 .module_path(Some("server"))
+                 .build();
+E Alternatively, use [`MetadataBuilder`](struct.MetadataBuilder.html):
++ use log::{Record, Level, MetadataBuilder};
+, let error_metadata = MetadataBuilder::new()
+)                         .target("myApp")
+-                         .level(Level::Error)
+"                         .build();
+*                 .metadata(error_metadata)
+!                 .line(Some(433))
+&                 .file(Some("app.rs"))
+ Metadata about a log message.
+= `Metadata` structs are created when users of the library use
+ logging macros.
+? They are consumed by implementations of the `Log` trait in the
+ `enabled` method.
+A `Record`s use `Metadata` to determine the log message's severity
+ and target.
+A Users should use the `log_enabled!` macro in their code to avoid
+% constructing expensive log messages.
+ # fn main(){}
+Uolv
+0 Builder for [`Metadata`](struct.Metadata.html).
+[ The `MetadataBuilder` can set the different parameters of a `Metadata` object, and returns
+ let target = "myApp";
+# use log::{Level, MetadataBuilder};
+& let metadata = MetadataBuilder::new()
+)                     .level(Level::Debug)
+$                     .target(target)
+                     .build();
+O The type returned by [`set_logger`] if [`set_logger`] has already been called.
+W The type returned by [`from_str`] when the string doesn't match any of the log levels.
+U [`from_str`]: https://doc.rust-lang.org/std/str/trait.FromStr.html#tymethod.from_str
+ The global logger proxy.
+Q-BLO]lq
+./macro.trace.html
+7https://doc.rust-lang.org/stable/std/macro.println.html
+(https://docs.rs/log-reload/*/log_reload/
+	stderrlog
+flexi_logger
+ https://docs.rs/log4rs/*/log4rs/
+struct.MetadataBuilder.html
+$https://docs.rs/logforth/*/logforth/
+android_log
+win_dbg_logger
+"https://docs.rs/log_err/*/log_err/
+struct.Record.html
+macro.debug.html
+./macro.debug.html
+pretty_env_logger
+"https://docs.rs/ftail/latest/ftail
+systemd-journal-logger
+*https://docs.rs/console_log/*/console_log/
+4https://doc.rust-lang.org/std/str/trait.FromStr.html
+macro.warn.html
+./macro.info.html
+	simplelog
+*https://docs.rs/clang_log/latest/clang_log
+slog-stdlog
+0https://docs.rs/logcontrol-log/*/logcontrol_log/
+fn.try_set_logger_raw.html
+Metadata::target
+./macro.warn.html
+simple_logger
+;https://docs.rs/structured-logger/latest/structured_logger/
+syslog
+,https://docs.rs/log-to-defmt/*/log_to_defmt/
+enum.LevelFilter.html
+Metadata::level
+./macro.error.html
+colog
+*https://docs.rs/call_logger/*/call_logger/
+	spdlog-rs
+log!
+&https://docs.rs/db_logger/*/db_logger/
+fn.set_logger.html
+fn.max_level.html
+Metadata::builder().build()
+
+env_logger
+,https://docs.rs/flexi_logger/*/flexi_logger/
+fern
+log_enabled!
+0https://docs.rs/win_dbg_logger/*/win_dbg_logger/
+trait.Log.html
+format_args!("")
+println!
+&https://docs.rs/stderrlog/*/stderrlog/
+logforth
+*https://docs.rs/android_log/*/android_log/
+
+log-reload
+target()
+macro.trace.html
+trace!
+6https://docs.rs/pretty_env_logger/*/pretty_env_logger/
+log4rs
+@https://docs.rs/systemd-journal-logger/*/systemd_journal_logger/
+log_err
+fn.logger.html
+level()
+macro.info.html
+debug!
+(https://github.com/drakulix/simplelog.rs
+ftail
+*https://docs.rs/slog-stdlog/*/slog_stdlog/
+console_log
+macro.error.html
+info!
+fn.set_logger_racy.html
+0https://github.com/borntyping/rust-simple_logger
+	clang_log
+ https://docs.rs/syslog/*/syslog/
+logcontrol-log
+fn.shutdown_logger_raw.html
+struct.Metadata.html
+warn!
+https://docs.rs/colog/*/colog/
+structured-logger
+#https://docs.rs/spdlog-rs/*/spdlog/
+macro.log.html
+log-to-defmt
+fn.set_max_level.html
+error!
+(https://docs.rs/env_logger/*/env_logger/
+call_logger
+https://docs.rs/fern/*/fern/
+macro.log_enabled.html
+	db_logger
+enum.Level.html
+max_level()
+4https://doc.rust-lang.org/std/macro.format_args.html
+	macro@log
+ERROR
+WARN
+INFO
+DEBUG
+TRACE
+Jattempted to set a logger after the logging system was already initialized
+Fattempted to convert a string that doesn't match an existing log level
+[!
+F
+w0{|~
+6Ka:
+N7<`
+W]w2
+KyC z
+H6gm
+nOVJ]
+C*D;
+H,
+V-yP 
+jGS\g
+mXc
+,c>+
+(^]$`
+H8NF|
+S`!Oy
+<yYMh
+K7Ii
+aCnz
+W,Nb
+ R^M
+ /H_
+OsH[
+5Nti
+&}I~
+y~}{@$6
+EDm?rq
+8emP
+ZPz6c
+Ychl
+SV^]
+?KB,bM
+M(kx
+:KGe
+LSwDo
+|6pR
+=Q%|
+)>W\
+
+vnvw(
+fWX;
+6-(;&p
+lR49e
+\k>d^
+y!/ 
+^!O/
+`K]l
+W fzx
+n~Uu
+J(k=|:
+=_8;
+D0s}R
+"Oey
+c~y.:
+ED&f
+G=8K
+FhFM
+)))))))))
+))))))
+R%SjT+U
+\O]6^
+ir$s
+tCvgw
+h6G7
+R#ShT)U
+\M]4^
+s~tAvew+x
+i6H7
+R$SiT*U
+\N]5^
+tBvfw,x
+	!	(	/	6	=	D	K	R	^	b	h	l	s	z	
+
+ 
+(
+0
+8
+L
+e
+u
+
+	
+!%-5GRW_dlqy~
+core_intrinsics
+	derive_eq
+derive_clone_copy
+fmt_helpers_for_derive
+fmt_internals
+w5Vj
+const_fmt_arguments_new
+ex@>GJ
+$crate::const_format_args
+F1Ew
+kknX
+$crate::panic::panic_2021
+panic_internals
+const_dispatch
+hODHT
+lyq%
+6-(;&
+y~}{@$6
+H,
+Vk
+FhFM*
+W fz
+N7<`
+S`!Oy
+=_8;
+dye@
+8;l.
+L.wW
+nvw(
+T<\g
+e%(	
+-yP 
+lR49e
+=Q%|
+`K]l
+D0s}R
+mXc
+OsH[
+?KB,bM
+:KGe
+[!
+F
+8NF|
+H6gmC
+G=8K
+SV^]
+n~Uu
+W]w2
+c~y.:
+8emP
+nOVL
+y!/ 
+J(k=|
+,c>+
+LSwDo
+^!O/
+Ychl)
+aCnz
+jGS\r
+EDm?rq
+"Oey
+^]$`
+gqpR
+KyC0
+{:S
+
+5U8*
+p$+b&
+%pXP
+SU[t1
+
+P&'n
+6LHod
+)+mS8M,0
+Ct*;
+gdLMT
+[+ba
+aTv`
+k1!L	
+$r1Ww|,)
+?-Qt
+S+p f(
+)<-`,
+<KdT2yX
+JfU(
+-V<
+X2r}Tw
+G2/
+G39w;n
+n$X;d
+X7>\
+9:
+.c"
+S}B]=Px=&b
+tFtx
+L5p>`
+neLS
+NZ91
+E\Us*
+zagx%q
+U/home/kali/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.28/src/lib.rs
+EB@A$
+JNN;
+QQPD
+S4@J=J
+#!!##J
+VM;7
+:2A#
+;8=,
+%9,
+
+NPNJPOKN?>
+PEQN
+]dcb
+")'-79;,F:P8A>/>/5)5_>G8A>UG2;<0
+A@@AABBCCABBBBC
+QPPQQRRSSQRRRRS
+G2'$
+EJA 
+V;!N
+JHD,
+(KOz
+%$$%%
+-
+-
+.
+)+**++
+LFMD
+#$%$	
+(;)=
+!/!!5
+#2)%-%1
+0-1&
+#.2%*1
+!9,
+
+'*-("
+EUL4
+r
+"+C
+-
+7O`CC
+$-EIGPNL
+'8N+
+OMJ4
+!9,
+
+1"L 
+[a
+&
+Y'  
+F&L=@
+HFE86+
+IJNLLNN>B@@B
++/--//+/--//0
+/)'')))''))0
+%##%%
+'+))++
+ &,,
+"/)!
+"&.-
+(/,%5
+/'-<6>5=5=6>
+*)5<>>====>>>>4<6>5=5=6>
+><52
+3<52
+37<52
+"$)&
+!'#)
+ /$e
+X/home/kali/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.28/src/macros.rs
+ wwi\g
+EB@A$
+cKDn
+N6.]
+P8.F
+bJDm
+M5.\
+O7.E
+bJDm
+M5.\
+O7.E
+cKDn
+N6.]
+P8.F
+78?@5?@
+cKDn
+N6.]
+P8.F
+%:8$%?
+KKAs
+W/home/kali/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.28/src/serde.rs
+TRRTT
+
+\`^^``
+
+Z4)!
+B
++#
+:
++!
+42244
+42244
+:88::
+54455
+=A??AA
+=A??AA
+CGEEGG
+@BAABB
+&?FU
+_/home/kali/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.28/src/__private_api.rs
+x86_64-unknown-linux-gnu
+-568abef6574317d3
+rust-end-file
+.note.gnu.property
+.shstrtab
+.strtab
+.symtab
+.rmeta
+/0              0           0     0     644     137784    `
+
+T$ H
+|$0H
+t$ H
+t$8H
+|$ H
+t$(H
+|$0H
+D$@H
+D$@H
+|$PH
+t$XH
+D$`H
+D$@H
+D$@H
+D$pH
+D$@H
+L$0H
+D$ H
+L$OH
+L$PH
+D$8H
+D$8H
+D$`H
+D$8H
+L$(H
+|$ H
+D$0H
+|$(H
+D$ H
+T$ H
+|$PH
+t$XH
+|$PH
+T$@H
+D$@H
+L$HH
+L$pH
+D$xH
+t$xH
+T$0H
+t$0H
+|$8H
+T$ H
+D$ H
+L$(H
+L$`H
+D$hH
+D$`H
+T$hH
+L$`H
+L$8H
+D$(H
+D$HH
+L$hH
+D$XH
+|$HH
+D$ H
+L$@H
+D$0H
+|$ H
+D$PH
+L$pH
+D$`H
+|$PH
+T$0H
+t$8H
+|$@D
+L$OH
+D$PH
+D$PH
+D$(H
+D$(H
+D$ H
+D$ H
+L$@H
+T$0H
+L$@H
+T$0H
+L$@H
+T$0H
+D$pH
+D$hH
+L$@H
+T$0H
+L$@H
+T$0H
+L$@H
+T$0H
+L$@H
+T$0H
+L$@H
+T$0H
+L$@H
+T$0H
+L$@H
+T$0H
+L$@H
+T$0H
+L$@H
+T$0H
+L$@H
+T$0H
+L$@H
+T$0H
+L$@H
+T$0H
+D$`H
+D$`H
+D$XH
+T$`H
+D$xH
+|$xH
+|$ H
+t$(H
+T$0H
+L$8H9
+D$@H
+|$HH
+t$PH
+T$XH
+T$`H
+H;D$
+|$(H
+t$0H
+T$8H
+|$hH
+D$(H
+|$pH
+D$ H
+D$PH
+|$(H
+D$`H
+t$`H
+L$@H
+D$XH
+D$XH;D$P
+D$XH
+D$HH
+D$@H
+T$HH
+,	F
+|$(H
+t$0H
+T$8H
+|$hH
+D$(H
+|$pH
+D$ H
+D$PH
+|$(H
+D$`H
+t$`H
+L$@H
+D$XH
+D$XH;D$P
+D$XH
+D$HH
+D$@H
+T$HH
+,	F
+|$8H
+t$@H
+L$(H
+D$0H
+T$ H
+t$ H
+D$ H
+D$ H
+D$ H
+D$0H
+|$(H
+t$0H
+D$ H
+t$ H
+D$ H
+D$ H
+D$ H
+D$0H
+D$@H
+D$HH
+D$PH
+D$ H
+D$(H
+D$0H
+D$\H
+t$ H
+|$XH
+L$SH
+T$(H
+D$(H
+L$0H
+L$@H
+D$HH
+t$ H
+T$UH
+t$VH
+D$?$
+|$XH
+t$&H
+|$(H
+|$(H
+D$%$
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/ptr/non_null.rs
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/sync/atomic.rs
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/slice/iter.rs
+/home/kali/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.28/src/lib.rs
+assertion failed: 0 < pointee_size && pointee_size <= isize::MAX as usizeunsafe precondition(s) violated: ptr::offset_from_unsigned requires `self >= origin`
+
+This indicates a bug in the program. This Undefined Behavior check is optional, and cannot be relied on for safety.unsafe precondition(s) violated: hint::assert_unchecked must never be called when the condition is false
+
+This indicates a bug in the program. This Undefined Behavior check is optional, and cannot be relied on for safety.there is no such thing as an acquire-release load
+there is no such thing as a release load
+there is no such thing as an acquire-release store
+there is no such thing as an acquire store
+there is no such thing as a release failure ordering
+there is no such thing as an acquire-release failure ordering
+OFFERRORWARNINFODEBUGTRACE
+attempted to set a logger after the logging system was already initialized
+attempted to convert a string that doesn't match an existing log level
+internal error: entered unreachable code: set_logger_racy must not be used with other initialization functions
+r	D6
+r	z*
+x	z*
+
+Cm*
+
+Cm*
+$		
+clang LLVM (rustc version 1.89.0 (29483883e 2025-08-04))
+/home/kali/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.28/src/lib.rs/@/log.46ad4f51ed9777e4-cgu.0
+/home/kali/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.28
+LOGGER
+pointer
+dyn log::Log
+vtable
+usize
+__ARRAY_SIZE_TYPE__
+&[usize; 6]
+&dyn log::Log
+_ZN3log6LOGGER17h2c659ddd53b53c8aE
+STATE
+core
+sync
+atomic
+cell
+value
+UnsafeCell<usize>
+AtomicUsize
+_ZN3log5STATE17hfd4b489168fcd5edE
+MAX_LOG_LEVEL_FILTER
+_ZN3log20MAX_LOG_LEVEL_FILTER17h41e9a9e9828ecf01E
+LOG_LEVEL_NAMES
+data_ptr
+length
+&str
+_ZN3log15LOG_LEVEL_NAMES17hf65956f3a648d857E
+SET_LOGGER_ERROR
+_ZN3log16SET_LOGGER_ERROR17h5e9c333be5da0612E
+LEVEL_PARSE_ERROR
+_ZN3log17LEVEL_PARSE_ERROR17h400f4fbfe82eadbfE
+<log::NopLogger as log::Log>::{vtable}
+drop_in_place
+*const ()
+size
+align
+__method3
+__method4
+__method5
+NopLogger
+<log::NopLogger as log::Log>::{vtable_type}
+logger
+_ZN3log6logger3NOP17hf1a5acdb66522a7eE
+Error
+Warn
+Info
+Debug
+Trace
+Level
+LevelFilter
+Relaxed
+Release
+Acquire
+AcqRel
+SeqCst
+Ordering
+option
+None
+Some
+Option<usize>
+{impl#2}
+from_str
+{closure_env#2}
+&mut log::{impl#2}::from_str::{closure_env#2}
+_ZN4core6option15Option$LT$T$GT$3map17hefc43adaa3760717E
+map<usize, log::Level, &mut log::{impl#2}::from_str::{closure_env#2}>
+Option<log::Level>
+self
+function
+impls
+{impl#4}
+(usize)
+_ZN4core3ops8function5impls80_$LT$impl$u20$core..ops..function..FnOnce$LT$A$GT$$u20$for$u20$$RF$mut$u20$F$GT$9call_once17hdac83bdb891e182aE
+call_once<(usize), log::{impl#2}::from_str::{closure_env#2}>
+args
+iter
+adapters
+filter
+{impl#3}
+control_flow
+{impl#1}
+pieces
+&[&str]
+position
+flags
+precision
+Param
+Implied
+Count
+width
+Placeholder
+&[core::fmt::rt::Placeholder]
+Option<&[core::fmt::rt::Placeholder]>
+non_null
+NonNull<()>
+formatter
+result
+Result<(), core::fmt::Error>
+options
+FormattingOptions
+dyn core::fmt::Write
+&mut dyn core::fmt::Write
+Formatter
+&mut core::fmt::Formatter
+unsafe fn(core::ptr::non_null::NonNull<()>, &mut core::fmt::Formatter) -> core::result::Result<(), core::fmt::Error>
+_lifetime
+marker
+PhantomData<&()>
+ArgumentType
+Argument
+&[core::fmt::rt::Argument]
+Arguments
+_ZN4core3fmt2rt38_$LT$impl$u20$core..fmt..Arguments$GT$6new_v117h9b397507e540e562E
+new_v1<1, 0>
+&[&str; 1]
+&[core::fmt::rt::Argument; 0]
+_ZN4core3fmt2rt38_$LT$impl$u20$core..fmt..Arguments$GT$9new_const17h2e1566580774b968E
+new_const<0>
+&[&str; 0]
+*const &str
+NonNull<&str>
+_ZN4core3ptr8non_null16NonNull$LT$T$GT$6as_ptr17h7acb521bd1683cd8E
+as_ptr<&str>
+*mut &str
+mut_ptr
+{impl#0}
+_ZN4core3ptr7mut_ptr31_$LT$impl$u20$$BP$mut$u20$T$GT$20offset_from_unsigned17h54a0e1add1158f28E
+offset_from_unsigned<&str>
+origin
+const_ptr
+_ZN4core3ptr9const_ptr33_$LT$impl$u20$$BP$const$u20$T$GT$20offset_from_unsigned17h48c16990ac6c874eE
+pointee_size
+_ZN4core3mem7size_of17h99247b8e2545f932E
+size_of<&str>
+_ZN4core3ptr8non_null16NonNull$LT$T$GT$20offset_from_unsigned17h9a70eab64d580a0fE
+offset_from_unsigned
+runtime_ptr_ge
+_ZN4core3ptr9const_ptr33_$LT$impl$u20$$BP$const$u20$T$GT$20offset_from_unsigned14runtime_ptr_ge7runtime17hd5aa366e63339bc3E
+runtime
+bool
+_ZN4core3ptr9const_ptr33_$LT$impl$u20$$BP$const$u20$T$GT$20offset_from_unsigned14runtime_ptr_ge17h3df44e203363a42cE
+this
+_ZN4core3fmt2rt38_$LT$impl$u20$core..fmt..Arguments$GT$9new_const17h062a639b7c3aad5cE
+new_const<1>
+hint
+assert_unchecked
+traits
+iterator
+Iterator
+Continue
+Break
+ControlFlow<usize, ()>
+_ZN4core3ops12control_flow24ControlFlow$LT$B$C$C$GT$11break_value17hd2b4116a84f32c78E
+break_value<usize, ()>
+find
+check
+_ZN4core4sync6atomic11AtomicUsize16compare_exchange17hfbb0b1813e4b700aE
+compare_exchange
+Result<usize, usize>
+&core::sync::atomic::AtomicUsize
+_ZN4core4sync6atomic11AtomicUsize4load17hdf69df79e75e57c7E
+load
+_ZN4core4sync6atomic11AtomicUsize5store17hc15d0a741cc9c57aE
+store
+panic
+location
+file_bytes_with_nul
+&[u8]
+line
+Location
+_ZN4core5panic8location8Location6caller17hab47ee46e4018260E
+caller
+&core::panic::location::Location
+slice
+*const [&str]
+NonNull<[&str]>
+_ZN4core3ptr8non_null16NonNull$LT$T$GT$8from_ref17h43dfc3c5f7078256E
+from_ref<[&str]>
+_ZN4core3ptr8non_null16NonNull$LT$T$GT$4cast17h0d7a8fc98f7ab034E
+cast<[&str], &str>
+_ZN4core3ptr7mut_ptr31_$LT$impl$u20$$BP$mut$u20$T$GT$3add17h492ff32488aeffecE
+add<&str>
+count
+end_or_len
+_marker
+&&str
+PhantomData<&&str>
+Iter<&str>
+_ZN4core5slice4iter13Iter$LT$T$GT$3new17h8986f93c03c18824E
+new<&str>
+{impl#6}
+_ZN4core3num20_$LT$impl$u20$u8$GT$18to_ascii_lowercase17hc65c2a3f9a8f4c1cE
+to_ascii_lowercase
+_ZN4core3num20_$LT$impl$u20$u8$GT$20eq_ignore_ascii_case17hf5e8447172af6365E
+eq_ignore_ascii_case
+other
+_ZN4core3num20_$LT$impl$u20$u8$GT$18is_ascii_uppercase17h7743b2c380837839E
+is_ascii_uppercase
+ascii
+{impl#7}
+{closure_env#1}
+_ZN4core6option15Option$LT$T$GT$3map17h8654dafef545bf5eE
+map<usize, log::LevelFilter, log::{impl#7}::from_str::{closure_env#1}>
+Option<log::LevelFilter>
+ParseLevelError
+_ZN4core6option15Option$LT$T$GT$5ok_or17h72ec4edb9b610987E
+ok_or<log::Level, log::ParseLevelError>
+Result<log::Level, log::ParseLevelError>
+_ZN4core6option15Option$LT$T$GT$5ok_or17h950d6d7b09684111E
+ok_or<log::LevelFilter, log::ParseLevelError>
+Result<log::LevelFilter, log::ParseLevelError>
+_ZN4core6option15Option$LT$T$GT$9unwrap_or17h9445f9d91714e4c7E
+unwrap_or<log::LevelFilter>
+_ZN4core6option15Option$LT$T$GT$9unwrap_or17hafdca6e6f7a9fdd5E
+unwrap_or<log::Level>
+_ZN4core6option15Option$LT$T$GT$4take17h44bcf6157fa3ae0cE
+take<usize>
+&mut core::option::Option<usize>
+{impl#18}
+_ZN86_$LT$core..option..Item$LT$A$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$4next17hbd50acf0ff89a845E
+next<usize>
+_ZN4core3mem7replace17h42b4e533471bcec6E
+replace<core::option::Option<usize>>
+{impl#34}
+{impl#8}
+{impl#11}
+_ZN4core3num23_$LT$impl$u20$usize$GT$13unchecked_sub17h16fa88c1efa1571fE
+unchecked_sub
+_ZN4core3ptr8non_null16NonNull$LT$T$GT$3add17he8fd502f88de6852E
+{impl#14}
+_ZN78_$LT$core..ptr..non_null..NonNull$LT$T$GT$$u20$as$u20$core..cmp..PartialEq$GT$2eq17h911ea306df562652E
+eq<&str>
+&core::ptr::non_null::NonNull<&str>
+_ZN4core3ptr7mut_ptr31_$LT$impl$u20$$BP$mut$u20$T$GT$10cast_const17h8742ff1b36c5815bE
+cast_const<&str>
+_ZN4core3ptr8non_null16NonNull$LT$T$GT$6as_ref17h647c01685f0eed7cE
+as_ref<&str>
+{impl#183}
+_ZN4core4hint16assert_unchecked17h31232f484bd204f4E
+cond
+_ZN4core6option15Option$LT$T$GT$6unwrap17h93d4268b6821c029E
+unwrap<log::Level>
+_ZN3log5Level10from_usize17h6361532fdb299a16E
+from_usize
+_ZN3log5Level6as_str17hdf4dd427c25e32feE
+as_str
+&log::Level
+_ZN3log5Level4iter17h60b0cb31f82e101aE
+range
+start
+Range<usize>
+{closure_env#0}
+Map<core::ops::range::Range<usize>, log::{impl#4}::iter::{closure_env#0}>
+_ZN3log5Level18increment_severity17h0d65993601763830E
+increment_severity
+_ZN4core3num23_$LT$impl$u20$usize$GT$14saturating_sub17h8b99a5a647ce897cE
+saturating_sub
+_ZN3log5Level18decrement_severity17h860f7f51f7ec39bfE
+decrement_severity
+_ZN4core6option15Option$LT$T$GT$6unwrap17hdc463cd407faaa1fE
+unwrap<log::LevelFilter>
+_ZN3log11LevelFilter10from_usize17hd9ba237cd0287cbfE
+_ZN3log11LevelFilter6as_str17h90857a87ba9cd6f6E
+&log::LevelFilter
+_ZN3log11LevelFilter4iter17h34c3dac1f03567a4E
+{impl#9}
+Map<core::ops::range::Range<usize>, log::{impl#9}::iter::{closure_env#0}>
+_ZN3log11LevelFilter18increment_severity17h880d2731567cc5e4E
+_ZN3log11LevelFilter18decrement_severity17hba8a415e9e8e943bE
+record
+metadata
+level
+target
+Metadata
+module_path
+Static
+Borrowed
+MaybeStaticStr
+Option<log::MaybeStaticStr>
+file
+Option<u32>
+Record
+RecordBuilder
+_ZN3log13RecordBuilder3new17he62b8aa8219a55b5E
+{impl#13}
+_ZN3log8Metadata7builder17hc6812b4452e58089E
+builder
+MetadataBuilder
+_ZN3log15MetadataBuilder3new17h72f414bccb11b0b8E
+_ZN3log15MetadataBuilder5build17h98d29eb3fcd5c59fE
+build
+&log::MetadataBuilder
+{impl#16}
+{impl#17}
+set_logger
+core_arch
+sse2
+_ZN4core9core_arch3x864sse29_mm_pause17h8b62d04a4be24427E
+_mm_pause
+_ZN4core4hint9spin_loop17hbb43556312bf2c4eE
+spin_loop
+{impl#19}
+{impl#20}
+__private_api
+{impl#21}
+{impl#51}
+inner
+Item<usize>
+IntoIter<usize>
+predicate
+Filter<core::option::IntoIter<usize>, log::{impl#2}::from_str::{closure_env#1}>
+_ZN102_$LT$core..iter..adapters..map..Map$LT$I$C$F$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$4next17h9aaf625b20caa5d7E
+next<log::Level, core::iter::adapters::filter::Filter<core::option::IntoIter<usize>, log::{impl#2}::from_str::{closure_env#1}>, log::{impl#2}::from_str::{closure_env#2}>
+_ZN108_$LT$core..iter..adapters..filter..Filter$LT$I$C$P$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$4next17h5a5082e9155a95d9E
+next<core::option::IntoIter<usize>, log::{impl#2}::from_str::{closure_env#1}>
+_ZN185_$LT$core..ops..control_flow..ControlFlow$LT$B$C$C$GT$$u20$as$u20$core..ops..try_trait..FromResidual$LT$core..ops..control_flow..ControlFlow$LT$B$C$core..convert..Infallible$GT$$GT$$GT$13from_residual17h57f184947869ef90E
+from_residual<usize, ()>
+&usize
+(&usize)
+_ZN4core3ops8function5impls79_$LT$impl$u20$core..ops..function..FnMut$LT$A$GT$$u20$for$u20$$RF$mut$u20$F$GT$8call_mut17h48942f1b3e14cd24E
+call_mut<(&usize), log::{impl#2}::from_str::{closure_env#1}>
+_ZN4core3ptr9const_ptr33_$LT$impl$u20$$BP$const$u20$T$GT$20offset_from_unsigned18precondition_check17ha6575fcac29c5780E
+precondition_check
+_ZN4core3str21_$LT$impl$u20$str$GT$20eq_ignore_ascii_case17he867a3a1dd007548E
+_ZN4core4hint16assert_unchecked18precondition_check17hfdbae62b75b3645cE
+Self
+_ZN4core4iter6traits8iterator8Iterator3map17h793dbe8b96f4eb47E
+map<core::ops::range::Range<usize>, log::LevelFilter, log::{impl#9}::iter::{closure_env#0}>
+_ZN4core4iter6traits8iterator8Iterator3map17ha478e61c4c0c4a68E
+map<core::ops::range::Range<usize>, log::Level, log::{impl#4}::iter::{closure_env#0}>
+_ZN4core4iter6traits8iterator8Iterator3map17hc02c8b02fa89ffc8E
+map<core::iter::adapters::filter::Filter<core::option::IntoIter<usize>, log::{impl#2}::from_str::{closure_env#1}>, log::Level, log::{impl#2}::from_str::{closure_env#2}>
+Map<core::iter::adapters::filter::Filter<core::option::IntoIter<usize>, log::{impl#2}::from_str::{closure_env#1}>, log::{impl#2}::from_str::{closure_env#2}>
+&mut log::{impl#2}::from_str::{closure_env#1}
+_ZN4core4iter6traits8iterator8Iterator4find17h87e87eb33822942bE
+find<core::option::IntoIter<usize>, &mut log::{impl#2}::from_str::{closure_env#1}>
+impl FnMut(&T) -> bool
+_ZN4core4iter6traits8iterator8Iterator4find5check28_$u7b$$u7b$closure$u7d$$u7d$17hbf9b26cb76bbc40aE
+{closure#0}<usize, &mut log::{impl#2}::from_str::{closure_env#1}>
+_ZN4core4iter6traits8iterator8Iterator6filter17h519025aa4bc69251E
+filter<core::option::IntoIter<usize>, log::{impl#2}::from_str::{closure_env#1}>
+{closure_env#0}<usize, &mut log::{impl#2}::from_str::{closure_env#1}>
+_ZN4core4iter6traits8iterator8Iterator8try_fold17h61bd950f098f809aE
+try_fold<core::option::IntoIter<usize>, (), core::iter::traits::iterator::Iterator::find::check::{closure_env#0}<usize, &mut log::{impl#2}::from_str::{closure_env#1}>, core::ops::control_flow::ControlFlow<usize, ()>>
+_ZN4core4sync6atomic11atomic_load17heec91117bb4b961fE
+atomic_load<usize>
+_ZN4core4sync6atomic12atomic_store17h277fed85728b3515E
+atomic_store<usize>
+_ZN4core4sync6atomic23atomic_compare_exchange17h39ccdb3f3761daabE
+atomic_compare_exchange<usize>
+_ZN4core5slice29_$LT$impl$u20$$u5b$T$u5d$$GT$4iter17h87b2535b6b4a1a36E
+iter<&str>
+_ZN4core5slice5ascii30_$LT$impl$u20$$u5b$u8$u5d$$GT$20eq_ignore_ascii_case17h45281f7dab143a66E
+_ZN90_$LT$core..option..IntoIter$LT$A$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$4next17h54ed1abceb3b341bE
+_ZN91_$LT$core..option..Option$LT$T$GT$$u20$as$u20$core..iter..traits..collect..IntoIterator$GT$9into_iter17h3c2084e1b24dc789E
+into_iter<usize>
+_ZN91_$LT$core..slice..iter..Iter$LT$T$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$4next17hda547d71b2df72a9E
+next<&str>
+Option<&&str>
+_ref__level
+_ZN91_$LT$core..slice..iter..Iter$LT$T$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$8position17h285df53b8edb7914E
+position<&str, log::{impl#2}::from_str::{closure_env#0}>
+_ZN91_$LT$core..slice..iter..Iter$LT$T$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$8position17h747bdbd0d3041d9dE
+position<&str, log::{impl#7}::from_str::{closure_env#0}>
+_ZN95_$LT$core..ops..control_flow..ControlFlow$LT$B$C$C$GT$$u20$as$u20$core..ops..try_trait..Try$GT$11from_output17h5edde2778d54c0dbE
+from_output<usize, ()>
+_ZN95_$LT$core..ops..control_flow..ControlFlow$LT$B$C$C$GT$$u20$as$u20$core..ops..try_trait..Try$GT$6branch17he6cf904836048478E
+branch<usize, ()>
+convert
+Infallible
+ControlFlow<usize, core::convert::Infallible>
+ControlFlow<core::ops::control_flow::ControlFlow<usize, core::convert::Infallible>, ()>
+_ZN57_$LT$log..Level$u20$as$u20$core..str..traits..FromStr$GT$8from_str17h123857cb38b7a98dE
+_ZN57_$LT$log..Level$u20$as$u20$core..str..traits..FromStr$GT$8from_str28_$u7b$$u7b$closure$u7d$$u7d$17h61bf3887657456c9E
+{closure#0}
+_ZN57_$LT$log..Level$u20$as$u20$core..str..traits..FromStr$GT$8from_str28_$u7b$$u7b$closure$u7d$$u7d$17h6b7f4ce6642d0ff4E
+{closure#1}
+_ZN57_$LT$log..Level$u20$as$u20$core..str..traits..FromStr$GT$8from_str28_$u7b$$u7b$closure$u7d$$u7d$17h612db0b0556ab7b1E
+{closure#2}
+_ZN49_$LT$log..Level$u20$as$u20$core..fmt..Display$GT$3fmt17h205ac4e4c72134beE
+_ZN63_$LT$log..LevelFilter$u20$as$u20$core..str..traits..FromStr$GT$8from_str17he41dbf3adf8a07acE
+_ZN63_$LT$log..LevelFilter$u20$as$u20$core..str..traits..FromStr$GT$8from_str28_$u7b$$u7b$closure$u7d$$u7d$17hfa4d058a2c65f10dE
+_ZN63_$LT$log..LevelFilter$u20$as$u20$core..str..traits..FromStr$GT$8from_str28_$u7b$$u7b$closure$u7d$$u7d$17h8c05996af4a915cdE
+_ZN55_$LT$log..LevelFilter$u20$as$u20$core..fmt..Display$GT$3fmt17hef59139dfed000cdE
+_ZN61_$LT$log..RecordBuilder$u20$as$u20$core..default..Default$GT$7default17h8572619da829fe2eE
+default
+_ZN63_$LT$log..MetadataBuilder$u20$as$u20$core..default..Default$GT$7default17he5bd66dad378eb8aE
+_ZN43_$LT$log..NopLogger$u20$as$u20$log..Log$GT$7enabled17h1abe6a43c4aa7947E
+enabled
+_ZN43_$LT$log..NopLogger$u20$as$u20$log..Log$GT$3log17h2ffef755e38e84a2E
+_ZN43_$LT$log..NopLogger$u20$as$u20$log..Log$GT$5flush17hbc59810ce8ef2e9dE
+flush
+_ZN3log10set_logger17hd0bb98ef2a71ef3aE
+SetLoggerError
+Result<(), log::SetLoggerError>
+_ZN3log10set_logger28_$u7b$$u7b$closure$u7d$$u7d$17h7d2167f2d2f024dfE
+_ref__logger
+_ZN3log16set_logger_inner17h783d28245937f891E
+set_logger_inner<log::set_logger::{closure_env#0}>
+_ZN3log15set_logger_racy17h190cd84db0b0b094E
+set_logger_racy
+_ZN58_$LT$log..SetLoggerError$u20$as$u20$core..fmt..Display$GT$3fmt17hd09d661c109c1f3eE
+_ZN59_$LT$log..ParseLevelError$u20$as$u20$core..fmt..Display$GT$3fmt17h4a8595518cf4531dE
+_ZN3log6logger17h69ce9e95032f0021E
+_ZN61_$LT$log..__private_api..GlobalLogger$u20$as$u20$log..Log$GT$7enabled17ha99df04eff52a09fE
+_ZN61_$LT$log..__private_api..GlobalLogger$u20$as$u20$log..Log$GT$3log17hcd9883b1e33c1944E
+_ZN61_$LT$log..__private_api..GlobalLogger$u20$as$u20$log..Log$GT$5flush17h083d01f3f4289daaE
+_ZN3log13__private_api3loc17hff916767edf27610E
+_ZN49_$LT$log..Level$u20$as$u20$core..clone..Clone$GT$5clone17h156af26a866efae2E
+clone
+_ZN52_$LT$log..Metadata$u20$as$u20$core..clone..Clone$GT$5clone17h9bc508edbf07c992E
+&mut core::iter::adapters::map::Map<core::iter::adapters::filter::Filter<core::option::IntoIter<usize>, log::{impl#2}::from_str::{closure_env#1}>, log::{impl#2}::from_str::{closure_env#2}>
+&mut core::iter::adapters::filter::Filter<core::option::IntoIter<usize>, log::{impl#2}::from_str::{closure_env#1}>
+residual
+&mut &mut log::{impl#2}::from_str::{closure_env#1}
+subtracted
+&mut core::option::IntoIter<usize>
+init
+accum
+current
+success
+failure
+order
+*const usize
+*mut usize
+first_a
+rest_a
+first_b
+rest_b
+&mut core::slice::iter::Iter<&str>
+output
+name
+&log::NopLogger
+&log::Metadata
+&log::Record
+make_logger
+&log::SetLoggerError
+&log::ParseLevelError
+GlobalLogger
+&log::__private_api::GlobalLogger
+rustc version 1.89.0 (29483883e 2025-08-04)
+zPLR
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/iter/adapters
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/ops
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/fmt
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/ptr
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/mem
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/intrinsics
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/str
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/iter/traits
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/sync
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/panic
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/slice
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/num
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/macros
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/slice/iter
+/home/kali/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/../../stdarch/crates/core_arch/src/x86
+lib.rs
+map.rs
+option.rs
+function.rs
+filter.rs
+control_flow.rs
+rt.rs
+non_null.rs
+mut_ptr.rs
+ub_checks.rs
+mod.rs
+const_ptr.rs
+mod.rs
+mod.rs
+hint.rs
+iterator.rs
+atomic.rs
+location.rs
+mod.rs
+iter.rs
+ascii.rs
+mod.rs
+mod.rs
+macros.rs
+uint_macros.rs
+sse2.rs
+__private_api.rs
+.rela.data.DW.ref.rust_eh_personality
+memcpy
+.debug_abbrev
+.text
+.comment
+.rela.debug_aranges
+.rela.debug_ranges
+.debug_str
+.group
+.rela.debug_info
+.note.GNU-stack
+.rela.debug_line
+_Unwind_Resume
+.rela.eh_frame
+.strtab
+.symtab
+.text._ZN3log10set_logger28_$u7b$$u7b$closure$u7d$$u7d$17h7d2167f2d2f024dfE
+.rela.data.rel.ro._ZN3log17LEVEL_PARSE_ERROR17h400f4fbfe82eadbfE
+.rela.text._ZN3log11LevelFilter10from_usize17hd9ba237cd0287cbfE
+.rela.rodata._ZN3log11LevelFilter10from_usize17hd9ba237cd0287cbfE
+.rela.text._ZN3log5Level18decrement_severity17h860f7f51f7ec39bfE
+.rela.text._ZN3log15MetadataBuilder5build17h98d29eb3fcd5c59fE
+.rela.text._ZN61_$LT$log..__private_api..GlobalLogger$u20$as$u20$log..Log$GT$7enabled17ha99df04eff52a09fE
+.rela.text._ZN4core4sync6atomic11atomic_load17heec91117bb4b961fE
+.rela.rodata._ZN4core4sync6atomic11atomic_load17heec91117bb4b961fE
+.rela.text._ZN4core3ptr8non_null16NonNull$LT$T$GT$20offset_from_unsigned17h9a70eab64d580a0fE
+.rela.text._ZN3log5Level6as_str17hdf4dd427c25e32feE
+.rela.text._ZN49_$LT$log..Level$u20$as$u20$core..fmt..Display$GT$3fmt17h205ac4e4c72134beE
+.rodata._ZN3log6logger3NOP17hf1a5acdb66522a7eE
+.rela.text._ZN4core6option15Option$LT$T$GT$3map17h8654dafef545bf5eE
+.rela.text._ZN58_$LT$log..SetLoggerError$u20$as$u20$core..fmt..Display$GT$3fmt17hd09d661c109c1f3eE
+.rela.text._ZN61_$LT$log..RecordBuilder$u20$as$u20$core..default..Default$GT$7default17h8572619da829fe2eE
+.bss._ZN3log5STATE17hfd4b489168fcd5edE
+.rela.text._ZN63_$LT$log..LevelFilter$u20$as$u20$core..str..traits..FromStr$GT$8from_str28_$u7b$$u7b$closure$u7d$$u7d$17h8c05996af4a915cdE
+.rela.text._ZN55_$LT$log..LevelFilter$u20$as$u20$core..fmt..Display$GT$3fmt17hef59139dfed000cdE
+.text._ZN43_$LT$log..NopLogger$u20$as$u20$log..Log$GT$5flush17hbc59810ce8ef2e9dE
+.rela.text._ZN91_$LT$core..slice..iter..Iter$LT$T$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$8position17h747bdbd0d3041d9dE
+.gcc_except_table._ZN91_$LT$core..slice..iter..Iter$LT$T$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$8position17h747bdbd0d3041d9dE
+.rela.text._ZN57_$LT$log..Level$u20$as$u20$core..str..traits..FromStr$GT$8from_str17h123857cb38b7a98dE
+.rela.text._ZN59_$LT$log..ParseLevelError$u20$as$u20$core..fmt..Display$GT$3fmt17h4a8595518cf4531dE
+.rela.text._ZN63_$LT$log..LevelFilter$u20$as$u20$core..str..traits..FromStr$GT$8from_str28_$u7b$$u7b$closure$u7d$$u7d$17hfa4d058a2c65f10dE
+_ZN4core9panicking18panic_bounds_check17hfa2ac8420ad021dcE
+.rela.text._ZN63_$LT$log..LevelFilter$u20$as$u20$core..str..traits..FromStr$GT$8from_str17he41dbf3adf8a07acE
+.rela.text._ZN4core4hint16assert_unchecked18precondition_check17hfdbae62b75b3645cE
+.text._ZN95_$LT$core..ops..control_flow..ControlFlow$LT$B$C$C$GT$$u20$as$u20$core..ops..try_trait..Try$GT$11from_output17h5edde2778d54c0dbE
+.rela.text._ZN4core4sync6atomic23atomic_compare_exchange17h39ccdb3f3761daabE
+.rela.rodata._ZN4core4sync6atomic23atomic_compare_exchange17h39ccdb3f3761daabE
+.rela.text._ZN3log11LevelFilter18decrement_severity17hba8a415e9e8e943bE
+.rela.text._ZN4core4iter6traits8iterator8Iterator4find17h87e87eb33822942bE
+.text._ZN90_$LT$core..option..IntoIter$LT$A$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$4next17h54ed1abceb3b341bE
+_ZN4core6option13unwrap_failed17hec54eb4737b382caE
+.rela.text._ZN61_$LT$log..__private_api..GlobalLogger$u20$as$u20$log..Log$GT$5flush17h083d01f3f4289daaE
+.rela.text._ZN4core4iter6traits8iterator8Iterator8try_fold17h61bd950f098f809aE
+.gcc_except_table._ZN4core4iter6traits8iterator8Iterator8try_fold17h61bd950f098f809aE
+.rela.data._ZN3log6LOGGER17h2c659ddd53b53c8aE
+.rela.text._ZN63_$LT$log..MetadataBuilder$u20$as$u20$core..default..Default$GT$7default17he5bd66dad378eb8aE
+.rela.text._ZN4core4sync6atomic11AtomicUsize5store17hc15d0a741cc9c57aE
+.rela.text._ZN3log10set_logger17hd0bb98ef2a71ef3aE
+_ZN4core9panicking11panic_const24panic_const_add_overflow17h371a9588e01a5f2aE
+.rela.text._ZN3log5Level4iter17h60b0cb31f82e101aE
+.rela.text._ZN4core4iter6traits8iterator8Iterator4find5check28_$u7b$$u7b$closure$u7d$$u7d$17hbf9b26cb76bbc40aE
+.gcc_except_table._ZN4core4iter6traits8iterator8Iterator4find5check28_$u7b$$u7b$closure$u7d$$u7d$17hbf9b26cb76bbc40aE
+.rela.text._ZN4core4sync6atomic11AtomicUsize16compare_exchange17hfbb0b1813e4b700aE
+.rela.text._ZN108_$LT$core..iter..adapters..filter..Filter$LT$I$C$P$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$4next17h5a5082e9155a95d9E
+.rela.text._ZN57_$LT$log..Level$u20$as$u20$core..str..traits..FromStr$GT$8from_str28_$u7b$$u7b$closure$u7d$$u7d$17h61bf3887657456c9E
+_ZN4core3fmt9Formatter3pad17hc784607861ff6ba9E
+.text._ZN91_$LT$core..slice..iter..Iter$LT$T$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$4next17hda547d71b2df72a9E
+.text._ZN91_$LT$core..option..Option$LT$T$GT$$u20$as$u20$core..iter..traits..collect..IntoIterator$GT$9into_iter17h3c2084e1b24dc789E
+.rela.text._ZN3log8Metadata7builder17hc6812b4452e58089E
+_ZN4core9panicking18panic_nounwind_fmt17hdcc420bb84b07b49E
+.text._ZN4core4iter6traits8iterator8Iterator3map17hc02c8b02fa89ffc8E
+.text._ZN3log15MetadataBuilder3new17h72f414bccb11b0b8E
+.text._ZN95_$LT$core..ops..control_flow..ControlFlow$LT$B$C$C$GT$$u20$as$u20$core..ops..try_trait..Try$GT$6branch17he6cf904836048478E
+.text._ZN4core4iter6traits8iterator8Iterator3map17ha478e61c4c0c4a68E
+.rela.text._ZN4core3fmt2rt38_$LT$impl$u20$core..fmt..Arguments$GT$9new_const17h2e1566580774b968E
+.rela.text._ZN4core3str21_$LT$impl$u20$str$GT$20eq_ignore_ascii_case17he867a3a1dd007548E
+.rela.text._ZN102_$LT$core..iter..adapters..map..Map$LT$I$C$F$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$4next17h9aaf625b20caa5d7E
+.rela.text._ZN4core4sync6atomic11AtomicUsize4load17hdf69df79e75e57c7E
+.text._ZN4core6option15Option$LT$T$GT$9unwrap_or17h9445f9d91714e4c7E
+.text._ZN4core6option15Option$LT$T$GT$5ok_or17h72ec4edb9b610987E
+_ZN4core9panicking9panic_fmt17hc49fc28484033487E
+.rela.data.rel.ro._ZN3log15LOG_LEVEL_NAMES17hf65956f3a648d857E
+.text._ZN4core4iter6traits8iterator8Iterator3map17h793dbe8b96f4eb47E
+.text._ZN43_$LT$log..NopLogger$u20$as$u20$log..Log$GT$7enabled17h1abe6a43c4aa7947E
+.rela.text._ZN3log11LevelFilter6as_str17h90857a87ba9cd6f6E
+.text._ZN4core5slice5ascii30_$LT$impl$u20$$u5b$u8$u5d$$GT$20eq_ignore_ascii_case17h45281f7dab143a66E
+.rela.text._ZN4core5slice29_$LT$impl$u20$$u5b$T$u5d$$GT$4iter17h87b2535b6b4a1a36E
+.rela.text._ZN3log5Level10from_usize17h6361532fdb299a16E
+.rela.rodata._ZN3log5Level10from_usize17h6361532fdb299a16E
+.text._ZN4core6option15Option$LT$T$GT$9unwrap_or17hafdca6e6f7a9fdd5E
+.rela.text._ZN3log13RecordBuilder3new17he62b8aa8219a55b5E
+.rela.text._ZN4core4sync6atomic12atomic_store17h277fed85728b3515E
+.rela.rodata._ZN4core4sync6atomic12atomic_store17h277fed85728b3515E
+.text._ZN57_$LT$log..Level$u20$as$u20$core..str..traits..FromStr$GT$8from_str28_$u7b$$u7b$closure$u7d$$u7d$17h6b7f4ce6642d0ff4E
+.rela.text._ZN3log11LevelFilter18increment_severity17h880d2731567cc5e4E
+.rela.text._ZN3log11LevelFilter4iter17h34c3dac1f03567a4E
+.rela.text._ZN3log15set_logger_racy17h190cd84db0b0b094E
+_ZN4core3fmt9Formatter9write_str17hf872a87fa5f13d84E
+.rela.text._ZN61_$LT$log..__private_api..GlobalLogger$u20$as$u20$log..Log$GT$3log17hcd9883b1e33c1944E
+.rela.text._ZN4core3ops8function5impls79_$LT$impl$u20$core..ops..function..FnMut$LT$A$GT$$u20$for$u20$$RF$mut$u20$F$GT$8call_mut17h48942f1b3e14cd24E
+.text._ZN4core5slice4iter13Iter$LT$T$GT$3new17h8986f93c03c18824E
+.rela.text._ZN91_$LT$core..slice..iter..Iter$LT$T$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$8position17h285df53b8edb7914E
+.gcc_except_table._ZN91_$LT$core..slice..iter..Iter$LT$T$GT$$u20$as$u20$core..iter..traits..iterator..Iterator$GT$8position17h285df53b8edb7914E
+.text._ZN49_$LT$log..Level$u20$as$u20$core..clone..Clone$GT$5clone17h156af26a866efae2E
+.text._ZN43_$LT$log..NopLogger$u20$as$u20$log..Log$GT$3log17h2ffef755e38e84a2E
+.rela.text._ZN52_$LT$log..Metadata$u20$as$u20$core..clone..Clone$GT$5clone17h9bc508edbf07c992E
+.rela.text._ZN4core3fmt2rt38_$LT$impl$u20$core..fmt..Arguments$GT$6new_v117h9b397507e540e562E
+.rela.data.rel.ro._ZN3log16SET_LOGGER_ERROR17h5e9c333be5da0612E
+.rela.text._ZN57_$LT$log..Level$u20$as$u20$core..str..traits..FromStr$GT$8from_str28_$u7b$$u7b$closure$u7d$$u7d$17h612db0b0556ab7b1E
+.rela.text._ZN3log16set_logger_inner17h783d28245937f891E
+.gcc_except_table._ZN3log16set_logger_inner17h783d28245937f891E
+.text._ZN4core4iter6traits8iterator8Iterator6filter17h519025aa4bc69251E
+.rela.text._ZN3log6logger17h69ce9e95032f0021E
+.text._ZN4core6option15Option$LT$T$GT$5ok_or17h950d6d7b09684111E
+.bss._ZN3log20MAX_LOG_LEVEL_FILTER17h41e9a9e9828ecf01E
+.text._ZN185_$LT$core..ops..control_flow..ControlFlow$LT$B$C$C$GT$$u20$as$u20$core..ops..try_trait..FromResidual$LT$core..ops..control_flow..ControlFlow$LT$B$C$core..convert..Infallible$GT$$GT$$GT$13from_residual17h57f184947869ef90E
+.rela.text._ZN4core3ptr9const_ptr33_$LT$impl$u20$$BP$const$u20$T$GT$20offset_from_unsigned18precondition_check17ha6575fcac29c5780E
+.text._ZN4core5panic8location8Location6caller17hab47ee46e4018260E
+.rela.text._ZN3log5Level18increment_severity17h0d65993601763830E
+.rela.text._ZN3log13__private_api3loc17hff916767edf27610E
+GCC_except_table69
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.39
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.29
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.19
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.9
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.38
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.28
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.18
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.8
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.37
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.27
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.17
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.7
+GCC_except_table36
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.26
+.rodata.cst16
+GCC_except_table16
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.16
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.6
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.45
+GCC_except_table35
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.35
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.15
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.5
+.rodata.cst4
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.44
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.34
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.24
+GCC_except_table14
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.14
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.4
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.43
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.33
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.23
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.13
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.3
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.42
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.32
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.22
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.12
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.2
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.41
+.rodata..Lanon.8fb6fd49020c786f3d26497251fcc2af.21
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.11
+.rodata.str1.1
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.40
+.rela.data.rel.ro..Lanon.8fb6fd49020c786f3d26497251fcc2af.20
+log.46ad4f51ed9777e4-cgu.0
+.Lanon.8fb6fd49020c786f3d26497251fcc2af.0

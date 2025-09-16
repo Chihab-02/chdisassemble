@@ -17,12 +17,18 @@ pub struct Chdisassembler {
     /// Input binary file
     #[arg(short = 'f', long = "file")]
     pub input: String,
-    /// Output assembly file
+    
+    /// Output assembly file (required for disassembly, optional for strings)
     #[arg(short = 'o', long = "output")]
-    pub output: String,
+    pub output: Option<String>,
+    
     /// Architecture (available: x86, arm (not thumb), mips, riscv)
     #[arg(short = 'a', long = "arch", default_value = "x86")]
     pub arch: Architecture,
+
+    /// Extract strings and optionally specify output file
+    #[arg(short='s',long = "strings")]
+    pub strings: Option<String>,
 }
 
 #[derive(Copy, Clone, Debug, ValueEnum)]
@@ -36,7 +42,21 @@ pub enum Architecture {
 impl Chdisassembler {
     pub fn disassemble(&self) -> Result<(), Box<dyn Error>> {
         let data = fs::read(&self.input)?;
-        let output_path = Path::new(&self.output);
+        
+       
+
+        if let Some(strings_output) = &self.strings {
+            let extracted_strings = self.extract_strings(&data, 4);
+            let output_content = extracted_strings.join("\n");
+            fs::write(strings_output, output_content)?;
+            println!("Strings written to {}", strings_output);
+            return Ok(());
+        }
+        
+         let output_path = match &self.output {
+            Some(path) => Path::new(path),
+            None => return Err("Output file is required for disassembly".into()),
+        };
         
         // Try parsing as object file
         if let Ok(file) = object::File::parse(&*data) {
@@ -46,7 +66,7 @@ impl Chdisassembler {
             for section in file.sections() {
                 let name = section.name().unwrap_or("<unnamed>").to_string();
                 
-                // Only process .text section for now (removed undefined all_sections field)
+                // Only process .text section for now
                 if name != ".text" {
                     continue;
                 }
@@ -113,5 +133,30 @@ impl Chdisassembler {
                 .build()?,
         };
         Ok(cs)
+    }
+    
+    fn extract_strings(&self, data: &[u8], min_len: usize) -> Vec<String> {
+        let mut strings = Vec::new();
+        let mut cur_string = Vec::new();
+        
+        for &byte in data {
+            if matches!(byte, 9 | 10 | 13 | 32..=126) {
+                cur_string.push(byte);
+            } else {
+                if cur_string.len() >= min_len {
+                    if let Ok(s) = String::from_utf8(cur_string.clone()) {
+                        strings.push(s);
+                    }
+                }
+                cur_string.clear();
+            }
+        }    
+        if cur_string.len() >= min_len {
+            if let Ok(string) = String::from_utf8(cur_string) {
+                strings.push(string);
+            }
+        }
+        
+        strings
     }
 }
