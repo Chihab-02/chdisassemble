@@ -6,7 +6,7 @@ A small Rust command-line disassembler that converts raw binary files into human
 
 ## Features (what this repo currently implements)
 
-- CLI interface (flags: `-f`, `-o`, `--arch`, `-h`, `-v`).
+- CLI interface (flags: `-f`, `-o`, `--a`,`-s` (for strings), `-h`, `-v`).
 - Disassembly using the `capstone` Rust crate.
 - Architecture selection: `x86` (default) ,`arm`,`MIPS` and `RISCV`.
 - Output written to a `.asm` file.
